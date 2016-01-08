@@ -1,0 +1,31 @@
+{
+	"name": "jq-widgets",
+	"keywords": ["jquery","angular","widgets","grid","tree"],
+	"description": "jQWidgets is an advanced jQuery and HTML5 UI framework.",
+	"version": "3.9.1",
+	"license": "http://www.jqwidgets.com/license/",
+	"readmeFilename": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git://ebon-fanhaitao/jQWidgets.git"
+	},
+	"main": [
+		"jqwidgets/jqxcore.js",
+		"jqwidgets/jqxdata.js",
+		"jqwidgets/jqxbuttons.js",
+		"jqwidgets/jqxscrollbar.js",
+		"jqwidgets/jqxgrid.js",
+		"jqwidgets/jqxcalendar.js",
+		"jqwidgets/jqxnumberinput.js",
+		"jqwidgets/jqxdatetimeinput.js",
+		"jqwidgets/jqxtooltip.js",
+		"jqwidgets/jqxdatatable.js",
+		"jqwidgets/jqxtreegrid.js",
+		"jqwidgets/jqxangular.js"
+	],
+	"ignore": [
+		"Makefile",
+		"test"
+	],
+	"dependencies": {}
+}
